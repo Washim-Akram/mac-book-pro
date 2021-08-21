@@ -1,0 +1,28 @@
+/************** Css Universal Selector *************/
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+/* image resizing */
+img{
+    width: 100%;
+    height: auto;
+}
+
+/* Table Data */
+td{
+    font-weight: 900;
+    font-size: 20px;
+}
+
+/* input tag */
+input{
+    height: 37px;
+}
+
+/* style button with hover */
+.btn:hover{
+    background-color: #000;
+    color: #fff;
+}
